@@ -1,6 +1,8 @@
-# Reviewers
-/governance/ @core-maintainers
-/problems/ @reviewers
+# Governance
+/.github/        @OpenProblemHub/core-maintainers
+/governance/     @OpenProblemHub/core-maintainers
+/LICENSE         @OpenProblemHub/core-maintainers
+/README.md       @OpenProblemHub/core-maintainers
 
-# Maintainers only
-.github/ @core-maintainers
+# Problems
+*                @OpenProblemHub/reviewers
