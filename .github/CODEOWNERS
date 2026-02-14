@@ -1,0 +1,6 @@
+# Reviewers
+/governance/ @core-maintainers
+/problems/ @reviewers
+
+# Maintainers only
+.github/ @core-maintainers

@@ -1,0 +1,11 @@
+name: Discussion
+description: Discuss governance, review standards, or meta topics
+title: "[Discussion] "
+labels: ["discussion"]
+body:
+  - type: textarea
+    attributes:
+      label: Topic
+      description: Describe the topic clearly
+    validations:
+      required: true
